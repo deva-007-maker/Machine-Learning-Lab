@@ -1,0 +1,8 @@
+Student_ID,Name,Branch,Maths,Science,English,Attendance
+101,Deva,CSE,85,92,88,90
+102,Dude,IT,90,,75,85
+103,Harsha,CSE,,80,82,88
+104,Munna,ECE,78,85,,92
+105,Shot,IT,88,89,90,95
+106,Mad,CSE,65,70,68,75
+107,Pose,ECE,92,94,91,98
